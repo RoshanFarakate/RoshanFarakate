@@ -19,6 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Effective Synchronization in Selenium WebDriver](https://medium.com/@roshanfarakate/effective-synchronization-in-selenium-webdriver-a751c79179f2?source=rss-518c63b10c4d------2)
+- [Locators in Selenium](https://medium.com/@roshanfarakate/locators-in-selenium-7f9748cfee7f?source=rss-518c63b10c4d------2)
+- [Introduction to Spring Boot DevTools](https://medium.com/@roshanfarakate/introduction-to-spring-boot-devtools-066b5a732629?source=rss-518c63b10c4d------2)
+- [Basic CRUD Operations in Spring Boot](https://medium.com/@roshanfarakate/basic-crud-operations-in-spring-boot-c478b078c8f1?source=rss-518c63b10c4d------2)
+- [Understanding @Controller and @RestController in Spring Boot](https://medium.com/@roshanfarakate/understanding-controller-and-restcontroller-in-spring-boot-9e46687e6a23?source=rss-518c63b10c4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
